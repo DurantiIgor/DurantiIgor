@@ -1,0 +1,40 @@
+body{
+    background-color:slategrey;
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(92, 107, 121);
+    display: inline-block;
+    border-radius: 7px;
+    padding: 7px;
+    color:whitesmoke;
+}
+
+input{
+    text-align: center;
+    background-color: rgb(68, 75, 82);
+    border-color:rgb(58, 64, 70);
+    border-radius: 7px;
+    padding: 7px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 3px;
+}
+
+button{
+    background-color: rgb(68, 75, 82);
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    border: none;
+}
+
+button:hover{
+    background-color: rgb(51, 54, 56);
+    border-radius: 5px;
+    padding: 6px;
+    color: white;
+    border: none;
+}
